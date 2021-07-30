@@ -5,3 +5,5 @@
 ### Sobre o Projeto: 
 
 Jogo onde o usuário deve acertar o número que o computador "Pensou".
+
+😉✌ Veja o [resultado](https://jaianeoliveira.github.io/guessNumber/).
